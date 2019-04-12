@@ -3,8 +3,6 @@ Github User Saver
 
 > Directory Structure
 
-### A typical top-level directory layout
-
     ├── public              # All public facing files
     ├── src                 # Test files (alternatively `spec` or `tests`)
     │   ├── apis            # Contains api calls to Firebase and Github

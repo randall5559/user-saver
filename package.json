@@ -1,0 +1,37 @@
+{
+  "name": "user-saver",
+  "version": "0.1.0",
+  "private": true,
+  "homepage" : "http://randall5559.github.io/user-saver",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "autosuggest-highlight": "^3.1.1",
+    "firebase": "^5.9.3",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "react-autosuggest": "^9.4.3",
+    "react-dom": "^16.8.6",
+    "react-hot-loader": "^4.8.3",
+    "react-redux": "^6.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
